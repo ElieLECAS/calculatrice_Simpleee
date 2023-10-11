@@ -1,1 +1,3 @@
-print(division(nombre1,nombre2))
+from division import division
+
+print(division(1,3))
