@@ -1,0 +1,1 @@
+print(soustraction(nombre1, nombre2))
